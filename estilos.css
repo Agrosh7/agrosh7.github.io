@@ -1,0 +1,36 @@
+@charset "UTF-8";
+/* CSS Document */
+body {
+	max-width:auto;
+	height:auto;
+	font-family:'Muli', sans-serif;
+	}
+div {
+	text-align:center;
+}
+p{
+	color: #373331;
+	margin:10px;
+	}
+.tgrande{
+	font-size:2em;
+	}
+img {
+	margin: 0;
+	padding:0;
+	max-width:100%;
+	}
+.sm{
+	margin: 0px 40px;}
+#mail{
+	color: #29CDB5;
+	text-decoration:none; 
+	font-size:1.5em;
+		}
+footer{
+   position:absolute;
+   bottom:0;
+   width:100%;
+   height:40px;
+   background: #9BF4D5;
+	}
